@@ -1,0 +1,12 @@
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Domain\bin\Debug\netstandard2.0\Domain.dll
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Domain\bin\Debug\netstandard2.0\Domain.pdb
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Domain\obj\Debug\netstandard2.0\Domain.dll
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Domain\obj\Debug\netstandard2.0\Domain.pdb
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Domain\obj\Debug\netstandard2.0\Domain.csproj.CopyComplete

@@ -1,0 +1,14 @@
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.deps.json
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.dll
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfoInputs.cache
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfo.cs
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.pdb
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Infrastructure\bin\Debug\netcoreapp2.1\Application.dll
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Infrastructure\bin\Debug\netcoreapp2.1\Domain.dll
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Infrastructure\bin\Debug\netcoreapp2.1\Application.pdb
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Infrastructure\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csprojAssemblyReference.cache
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CopyComplete
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.dll
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.pdb
