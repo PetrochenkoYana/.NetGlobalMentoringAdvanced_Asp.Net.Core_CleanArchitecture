@@ -34,7 +34,7 @@ namespace WebApi.Controllers
         [HttpPost]
         public Category Post([FromBody] Category category)
         {
-           return _categoryUseCases.Add(category);
+            return _categoryUseCases.Add(category);
         }
 
         // PUT api/values/5

@@ -3,10 +3,10 @@ D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\WebApi\bin\Debug\ne
 D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
 D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
 D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
-D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\WebApi\bin\Debug\netcoreapp2.1\Application.dll
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\WebApi\bin\Debug\netcoreapp2.1\App.dll
 D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\WebApi\bin\Debug\netcoreapp2.1\Domain.dll
 D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\WebApi\bin\Debug\netcoreapp2.1\Infrastructure.dll
-D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\WebApi\bin\Debug\netcoreapp2.1\Application.pdb
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\WebApi\bin\Debug\netcoreapp2.1\App.pdb
 D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\WebApi\bin\Debug\netcoreapp2.1\Domain.pdb
 D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\WebApi\bin\Debug\netcoreapp2.1\Infrastructure.pdb
 D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\WebApi\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache

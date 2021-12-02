@@ -1,4 +1,5 @@
 ﻿using Application.Interfaces;
+using Application.ServiceBus;
 using Application.UseCases;
 using Infrastructure;
 using Microsoft.AspNetCore.Builder;
@@ -28,7 +29,7 @@ namespace WebApi
             services.AddTransient<ICategoryUseCases, CategoryUseCases>();
             services.AddTransient<IItemUseCases, ItemUseCases>();
             services.AddTransient<ApplicationContext, ApplicationContext>();
-
+            services.AddTransient<IServiceBusManager, ServiceBusManager>();
 
         }
 

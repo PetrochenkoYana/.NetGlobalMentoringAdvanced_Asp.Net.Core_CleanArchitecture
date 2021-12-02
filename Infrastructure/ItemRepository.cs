@@ -3,6 +3,7 @@ using System.Linq;
 using Application.Interfaces;
 using Domain;
 using Domain.Models;
+using Microsoft.Extensions.Configuration;
 
 namespace Infrastructure
 {
@@ -34,15 +35,13 @@ namespace Infrastructure
 
         }
 
-        public bool Delete(int itemId)
+        public void Delete(int itemId)
         {
             var deleted = _context.Items.Remove(_context.Items.First(i => i.ItemId == itemId));
             if (deleted != null)
             {
                 _context.SaveChanges();
-                return true;
             }
-            return false;
         }
 
         public Item Update(int id, Item item)

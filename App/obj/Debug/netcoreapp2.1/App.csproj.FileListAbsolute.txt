@@ -1,0 +1,14 @@
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\App\obj\Debug\netcoreapp2.1\App.csprojAssemblyReference.cache
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\App\obj\Debug\netcoreapp2.1\App.csproj.CoreCompileInputs.cache
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\App\obj\Debug\netcoreapp2.1\App.AssemblyInfoInputs.cache
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\App\obj\Debug\netcoreapp2.1\App.AssemblyInfo.cs
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\App\bin\Debug\netcoreapp2.1\App.deps.json
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\App\bin\Debug\netcoreapp2.1\App.dll
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\App\bin\Debug\netcoreapp2.1\Domain.dll
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\App\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\App\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\App\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\App\obj\Debug\netcoreapp2.1\App.csproj.CopyComplete
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\App\bin\Debug\netcoreapp2.1\App.pdb
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\App\obj\Debug\netcoreapp2.1\App.dll
+D:\src\Mentoring_Advanced\Module3_LayeredArchitectures-Task2\App\obj\Debug\netcoreapp2.1\App.pdb

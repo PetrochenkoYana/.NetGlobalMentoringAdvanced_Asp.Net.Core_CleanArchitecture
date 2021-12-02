@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using Application.Interfaces;
 using Domain;
-using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure
 {
@@ -39,7 +38,7 @@ namespace Infrastructure
             return categoryUpdated;
         }
 
-        public bool Delete(int categoryId)
+        public void Delete(int categoryId)
         {
             var parentCategories = _context.Categories.Where(c => c.ParentId == categoryId);
             foreach (var category in parentCategories)
@@ -59,11 +58,9 @@ namespace Infrastructure
             if (objectCategory != null)
             {
                 _context.SaveChanges();
-                return true;
             }
 
             _context.SaveChanges();
-            return false;
         }
     }
 }
