@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using Application.Interfaces;
 using Domain;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApi.Controllers
@@ -31,6 +32,7 @@ namespace WebApi.Controllers
         }
 
         // POST api/values
+        [Authorize(Roles = "Manager")]
         [HttpPost]
         public Category Post([FromBody] Category category)
         {
@@ -38,6 +40,7 @@ namespace WebApi.Controllers
         }
 
         // PUT api/values/5
+        [Authorize(Roles = "Manager")]
         [HttpPut("{id}")]
         public Category Put(int id, [FromBody] Category category)
         {
@@ -45,6 +48,7 @@ namespace WebApi.Controllers
         }
 
         // DELETE api/values/5
+        [Authorize(Roles = "Manager")]
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
